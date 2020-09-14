@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-year = [2008, 2009, 2010,2011, 2012,2013,2014,2015,2016,2017,2018 ]
+year = [2008, 2009, 2010, 2011, 2012,2013,2014,2015,2016,2017,2019 ]
 
 #Not based on real data; just numbers I came up with for fun
 num_book_sales= [700, 500, 300, 480, 250, 800, 840, 900, 820, 600, 650] 
